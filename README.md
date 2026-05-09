@@ -1,4 +1,4 @@
-# My ALU Project
+# 8-Bit Modular Arithmetic Logic Unit
 This is an 8-bit ALU written in **SystemVerilog**.
 
 ### Features:
