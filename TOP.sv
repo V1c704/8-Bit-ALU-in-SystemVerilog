@@ -17,7 +17,7 @@ module TOP(
     logic [9:0] out_shl, out_shr, out_rol, out_ror;
     logic [9:0] result_temp;
     
-    Artithmetic_Unit AU(
+    Arithmetic_Unit AU(
         .A(A),        
         .B(B),        
         .is_signed(is_signed),
