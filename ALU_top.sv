@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module TOP(
+module ALU_top(
         input logic [7:0] A,
         input logic [7:0] B,
         input logic       is_signed,
