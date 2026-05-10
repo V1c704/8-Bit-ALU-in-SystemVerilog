@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module Artithmetic_Unit(
+module Arithmetic_Unit(
         input logic  [7:0] A,
         input logic  [7:0] B,
         input logic        is_signed,
